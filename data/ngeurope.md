@@ -4,11 +4,15 @@
 ### Formation ngEurope
 ## formulaires et directives
 
-TODO : ici dépôt GitHub, package slides, outils ?
 
     git clone https://github.com/tchatel/ngeurope.git
     git checkout 00
     node web-server.js 8000
+
+<div class="left small">
+slides en ligne : http://tchatel.github.io/ngeurope-slides/
+ou à télécharger en local :
+</div>
 
     git clone https://github.com/tchatel/ngeurope-slides.git
     node web-server.js 9000
